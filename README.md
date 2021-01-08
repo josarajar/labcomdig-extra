@@ -12,3 +12,8 @@ https://github.com/gapsc-us/labcomdig
 
 El objetivo de este proyecto es demodular señales digitales generadas con un transmisor cuyos parámetros se indican en la Presentación. Para obtener ejemplos de
 señales para poder probar el código, solicitarlas en el siguiente mail jaradillas@us.es.
+
+Para más información, consultar:
+
+F. Javier Payán Somet, Juan José Murillo Fuentes, José Carlos Aradillas Jaramillo, "Manual de Laboratorio de Comunicaciones Digitales con Python".
+Departamento de Teoría de la Señal y Comunicaciones. Escuela Técnica Superior de Ingeniería. Universidad de Sevilla. Ed 2020.
